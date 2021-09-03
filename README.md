@@ -9,7 +9,6 @@ Uploaded **06/01/2021**
 **###  Assignments Folder**
 
 |   #   | Folder Link | Assignment Description |
-
 | :---: | ----------- | ---------------------- |
 |   1   | <a href="FizzBuzz.py">FizzBuzz.py</a>     | FizzBuzz Game    |
 |   2   | <a href="banker_roulette.py">banker_roulette.py</a>    | Bank Roulette      |
