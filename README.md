@@ -1,10 +1,10 @@
 # Python Training Summer
 
-By Fowzy Alsaud
+By **Fowzy Alsaud**
 
-Uploaded 06/01/2021
+Uploaded **06/01/2021**u
 
-*** NOTES *** : This is just a repo for learning purposes. It helps me learn and motivate me to upload my recent work on Python here on gitHub.
+** NOTES ** : This is just a repo for learning purposes. It helps me learn and motivate me to upload my recent work on Python here on gitHub.
 
 **###  Assignments Folder**
 
