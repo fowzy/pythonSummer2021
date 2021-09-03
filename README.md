@@ -2,7 +2,7 @@
 
 By **Fowzy Alsaud**
 
-Uploaded **06/01/2021**u
+Uploaded **06/01/2021**
 
 ** NOTES ** : This is just a repo for learning purposes. It helps me learn and motivate me to upload my recent work on Python here on gitHub.
 
@@ -11,25 +11,15 @@ Uploaded **06/01/2021**u
 |   #   | Folder Link | Assignment Description |
 
 | :---: | ----------- | ---------------------- |
-
 |   1   | <a href="FizzBuzz.py">FizzBuzz.py</a>     | FizzBuzz Game    |
-
 |   2   | <a href="banker_roulette.py">banker_roulette.py</a>    | Bank Roulette      |
-
 |   3   | <a href="bmi.py">bmi.py</a>    | Calculate your bmi      |
-
 |   4   | <a href="bmi2.py">bmi.py</a>    | Calculate your bmi v2      |
-
 |   5   | <a href="heads_tails.py">heads_tails.py</a>    | Heads or Tails      |
-
 |   6   | <a href="leap_year.py">leap_year.py</a>    | Leap Year      |
-
 |   7   | <a href="logical_operators.py">logical_operators.py</a>    | Logical Operators      |
-
 |   8   | <a href="love_calculator.py">love_calculator.py</a>    | Love Calculator      |
-
 |   9   | <a href="maxNumber_forLoop.py">maxNumber_forLoop.py</a>    | FInd the Max Number      |
-
 |   10   | <a href="odd_or_even.py">odd_or_even.py</a>    | Odd or Even Number      |
 |   11   | <a href="random_gen.py">random_gen.py</a>    | Random Number Generator      |
 |   12   | <a href="pizza_orders.py">pizza_orders.py</a>    | Pizza Order      |
