@@ -1,6 +1,6 @@
 # Python Training Summer
 
-By **Fowzy Alsaud**
+By **Fowzy**
 
 Uploaded **06/01/2021**
 
